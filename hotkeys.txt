@@ -1,0 +1,5 @@
+ctl-shift-o		minimap
+ctl-a 			activate attack
+ctl-t 			activate target
+t				movement trails
+ctl-x			eliminate
