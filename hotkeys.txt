@@ -1,7 +1,12 @@
 ctl-shift-o -minimap
 
-ctl-a then hold ctl and drag mouse between hexes -draw declare attack line
+ctl-click flare for attack
+alt-click flare for target
 
 t -movement trails
 
 ctl-x -eliminate
+
+Shift click markers to select (forts)
+
+numpad numbers - set DRM
