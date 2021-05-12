@@ -3,7 +3,10 @@ ctl-shift-o -minimap
 ctl-click flare for attack
 alt-click flare for target
 
+ctrl-i / ctl-shift-i set supply level
+
 t -movement trails
+shift-t clear movement trails
 
 ctl-x -eliminate
 
